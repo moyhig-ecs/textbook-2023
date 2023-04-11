@@ -1,0 +1,9 @@
+format: jb-book
+root: chapters/intro
+title: Introduction
+parts:
+- caption: 2023/04/12
+  numberd: false
+  chapters:
+  - file: chapters/01/intro.ipynb
+    title: Introduction
