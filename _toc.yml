@@ -11,6 +11,8 @@ parts:
     title: OpenAI API key
   - file: chapters/01/03_chatgpt.ipynb
     title: ChatGPT interaction
+  - file: chapters/01/04_assignment.ipynb
+    title: Assignment
   - file: chapters/01/intro_add
     title: Request for cooperation
     sections:
@@ -20,5 +22,3 @@ parts:
       title: Informed concent
     - file: chapters/01/intro_add_6
       title: Withdrawal of concent
-  - file: chapters/01/04_homework.ipynb
-    tile: homework
